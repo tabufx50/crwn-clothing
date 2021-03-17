@@ -27,4 +27,4 @@ You can also add and remove items in cart and the total will reflect that.
 
 ![Screenshot](ecom-stripe-pay.jpg)
 
-You can see full demo site here <a href="https://my-crwn-new.herokuapp.com/">ECOM site</a> - Use back arrow button to get back to this page.
+
